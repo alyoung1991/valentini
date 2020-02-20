@@ -214,6 +214,10 @@
 			order: -1;
 		}
 
+		.page-heading{
+			font-size: 48px;
+		}
+
 		.flavor{
 			font-size: 40px;
 		}
@@ -223,10 +227,10 @@
 		}
 
 		.contact-content{
-			font-size: 40px
+			font-size: 36px;
 		}
 
 		.map{
-			height: 800px;
+			height: 600px;
 		}
 }
